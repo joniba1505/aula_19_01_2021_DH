@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "José Nilton",
+      "cidade": "Ribeirão Pires"
+    },
+    {
+"id": 2,
+"nome": "Mariane",
+"cidade": "Ribeirão Pires"
+}
+]
+}
